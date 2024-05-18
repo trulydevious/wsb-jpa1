@@ -1,0 +1,4 @@
+2024-05-12 21:23:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "ADDRESS" nie istnieje
+Table "ADDRESS" not found; SQL statement:
+select * FROM ADDRESS [42102-197]
